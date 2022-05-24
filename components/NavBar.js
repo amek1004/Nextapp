@@ -22,6 +22,7 @@ export default function NavBar() {
           text-decoration: none;
           font-size: 30px;
           padding: 20px;
+          color: aliceblue;
         }
         .active {
           color: blue;
