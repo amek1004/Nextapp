@@ -1,0 +1,11 @@
+/* .nav {
+  color: aquamarine;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(183, 32, 32);  
+  
+} */
+
+.active {
+  color: aqua;
+}
