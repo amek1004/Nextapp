@@ -4,7 +4,7 @@ export default function About() {
   return (
     <div>
       <NavBar />
-      <h1>about</h1>
+      <h1>나를 소개하는 페이지야</h1>
     </div>
   );
 }
