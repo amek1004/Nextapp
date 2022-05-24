@@ -16,12 +16,16 @@ export default function NavBar() {
       </Link>
       <style jsx>{`
         nav {
-          background-color: red;
+          background-color: rgb(0, 0, 0);
+          height: 50px;
+          text-align: justify;
         }
         a {
           text-decoration: none;
-          font-size: 30px;
-          padding: 20px;
+          font-size: 20px;
+
+          padding: 30px;
+
           color: aliceblue;
         }
         .active {
